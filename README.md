@@ -1,16 +1,13 @@
-## Hi there 👋
+# OLá eu ou caue! 🇧🇷
 
-<!--
-**CaueBoiko/caueboiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante do 1° ano b do ensino médio 
+Colegio Professores Edivaldo e Maria Janete Carneiro 
+Turvo - PR
 
-Here are some ideas to get you started:
+## sobre mim 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- aprendendo html , css e javascript
+- objetivo: terminar os estudo mais rapido
+- hobbies: futebol e joga aquela ranqueada com os cria
+
+![](https://i.pinimg.com/originals/d5/b9/88/d5b988e72982e225f665d6251e212b90.gif)
